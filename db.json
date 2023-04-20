@@ -1,0 +1,18 @@
+{
+  "inquiries": [
+    {
+      "id": 1,
+      "name": "Dan Oje",
+      "email": "test@test.com",
+      "subject": "test subject",
+      "message": "test message"
+    },
+    {
+      "id": 2,
+      "name": "Tun Oje",
+      "email": "test2@test.com",
+      "subject": "test2 subject",
+      "message": "test2 message"
+    }
+  ]
+}
